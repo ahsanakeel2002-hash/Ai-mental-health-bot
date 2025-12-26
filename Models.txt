@@ -1,0 +1,12 @@
+openai/gpt-oss-20b:free
+meta-llama/llama-3.2-3b-instruct:free
+mistralai/mistral-7b-instruct
+google/gemini-2.5-flash
+nvidia/nemotron-nano-9b-v2:free
+deepseek/deepseek-chat-v3.1:free
+
+deepseek/deepseek-chat-v3.1:free	
+meta-llama/llama-4-maverick:free	
+moonshotai/kimi-vl-a3b-thinking:free	
+cognitivecomputations/dolphin3.0-mistral-24b:free	
+deepseek/deepseek-chat-v3.1:free
